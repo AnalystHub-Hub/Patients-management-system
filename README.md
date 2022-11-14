@@ -1,11 +1,10 @@
-# Patients Management System
+## Patients Management System
 
 This Java Enterprise Web application was developed to focus specifically on patients management in a a hospital. It 
 covers registration into the hospital, consultation, prescriptions, and anual reporting.
 
 
-Modules
---------------------------
+### System Modules
 
 - `Ward Management`
 - `Bed Management`
@@ -18,8 +17,8 @@ Modules
 - `Laboratory Management`
 
 
-Tools, Technologies and Languages
---------------------------
+### Tools, Technologies and Languages
+
 ```http
   Languages
 ```
@@ -48,10 +47,10 @@ Tools, Technologies and Languages
 - Postgresql
 
 
-System Functioning
----------------------------
+### System Functionality
 
-- Database
+- Database Setup
+The database 
 
 ![](-pics/db.png)
 

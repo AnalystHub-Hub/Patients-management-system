@@ -50,15 +50,16 @@ covers registration into the hospital, consultation, prescriptions, and anual re
 ### System Functionality
 
 - Database Setup
-The database 
 
-![](-pics/db.png)
+ ![](-pics/db.png)
 
+ Setting up the web server (Glassfish server)
 
 - Code
 
 ![](-pics/netbeans.png)
 
+Java code in netbeans IDE
 
 - Authentication
 
@@ -66,9 +67,12 @@ The database
 
 ![](-pics/login.png)
 
+Enter Password and UserName to authenticate
+
 - DashBoard
 
 ![](-pics/chart.png)
+
 
 - Account
 

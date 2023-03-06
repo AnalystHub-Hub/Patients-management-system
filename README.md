@@ -1,6 +1,6 @@
 ## Patients Management System
 
-This Java Enterprise Web application was developed to focus specifically on patients management in a a hospital. It 
+I developed a Java Web application to focus specifically on patients management in a hospital. It 
 covers registration into the hospital, consultation, prescriptions, and anual reporting.
 
 

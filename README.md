@@ -3,6 +3,13 @@
 I developed a Java Web application to focus specifically on patients management in a hospital. It 
 covers registration into the hospital, consultation, prescriptions, and anual reporting.
 
+## Preview
+
+ ![](Covers/PMSCover1.png)
+
+
+ ![](Covers/PMSCover2.png)
+
 
 ### System Modules
 
